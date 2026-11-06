@@ -7,7 +7,7 @@
 
 ## 2026-11-03 — Step 1 approved hardening
 - Implemented search rendering safety; robust order-list storage validation; required customer name and phone validation; request-text limits; clearer WhatsApp/copy/storage feedback.
-- Checks recorded: JavaScript syntax and focused Node checks passed. Browser automation was blocked in the test environment; live browser interaction remained for owner verification.
+- JavaScript syntax and focused Node checks passed. Browser automation was blocked in the test environment; live browser interaction remained for owner verification.
 - No redesign, framework migration, backend, deployment or catalogue edits.
 
 ## 2026-11-04 — Step 2 storefront presentation
@@ -17,3 +17,11 @@
 - Preserved all 24 product records, IDs, descriptions, image URLs, business details, logo and order flow.
 - JavaScript syntax and catalogue/descriptor/map checks passed. Live browser verification remains outstanding.
 - Netlify free static hosting retained; no deployment performed.
+
+## 2026-11-06 — Step 3 product-data separation
+- Uploaded the approved Step 2 baseline to GitHub main before development; created the separate branch step-3/product-data-management from that baseline.
+- Extracted the existing 24 product records without changing IDs, names, groups, visibility, descriptions, image URLs, labels or image references into data/products.json.
+- Updated index.html to load the JSON file using the browser Fetch API. Added loading, retry and clear unavailable-catalogue messaging; validates the data structure and duplicate/missing product IDs before rendering.
+- Updated README.md with mobile GitHub editing instructions. No backend, database, paid service, framework, package manager or build step added.
+- Validation planned/performed: JSON parsing, product count and ID preservation, source syntax and static-reference checks. Real-browser and Netlify preview checks still required.
+- Changes are on the development branch only; main remains the approved Step 2 baseline.
