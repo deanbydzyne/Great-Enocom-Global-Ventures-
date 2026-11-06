@@ -23,5 +23,6 @@
 - Extracted the existing 24 product records without changing IDs, names, groups, visibility, descriptions, image URLs, labels or image references into data/products.json.
 - Updated index.html to load the JSON file using the browser Fetch API. Added loading, retry and clear unavailable-catalogue messaging; validates the data structure and duplicate/missing product IDs before rendering.
 - Updated README.md with mobile GitHub editing instructions. No backend, database, paid service, framework, package manager or build step added.
-- Validation planned/performed: JSON parsing, product count and ID preservation, source syntax and static-reference checks. Real-browser and Netlify preview checks still required.
+- Validation passed: JSON parses; all 24 product records match the Step 2 baseline exactly (including IDs, names, groups, visibility, descriptions, image URLs and image metadata); 21 raw-material and 3 finished-feed records remain; all IDs are unique; the updated inline JavaScript passes node --check; the branch HTML and locally syntax-checked HTML are byte-for-byte identical; the JSON fetch path and retry/error state are present.
+- Real-browser interaction and a Netlify preview are still required to verify runtime loading and the complete customer journey.
 - Changes are on the development branch only; main remains the approved Step 2 baseline.
