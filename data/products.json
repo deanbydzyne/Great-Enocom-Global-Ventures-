@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": "gnc-groundnut-cake",
+      "name": "GNC (Groundnut Cake)",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/Z1Y7MbpT/GNC-1.jpg",
+        "label": "GNC 1",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/cSgwJgXs/GNC-2.jpg",
+            "label": "GNC 2"
+          }
+        ]
+      },
+      "d": "Groundnut cake is the protein-rich cake left after oil is pressed from groundnuts. In catfish feeds it serves as a plant protein, often alongside fish meal, to supply the protein fish need for growth. African catfish studies found it works well as a partial replacement for other proteins at moderate levels, while heavy use can lower feed efficiency, so balance matters. Keep it dry: damp groundnut cake can grow moulds that produce aflatoxin, which harms growth and immunity. Added lysine and methionine, and a toxin binder, can help cover its weak points."
+    },
+    {
+      "id": "rosel",
+      "name": "Rosel",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/HfBSpWtH/Rosel-1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Rosel (roselle, Hibiscus sabdariffa) is a plant studied as a feed ingredient. Research on African catfish has tested roselle seed meal as a partial substitute for soybean meal in fingerling diets, and small amounts of roselle plant material as a feed additive have been linked to better growth and blood health in catfish fingerlings. Raw seed contains compounds that limit how much fish tolerate, so proper processing and moderate use are advised. Treat it as a supporting ingredient rather than a main protein source, since results vary with preparation and level."
+    },
+    {
+      "id": "local-fish-meal",
+      "name": "Local Fish Meal",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/kVw2Y3pz/Fish-Meal-1.jpg",
+        "label": "Fish Meal 1",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/S4YdJVv6/Fish-Meal-02.jpg",
+            "label": "Fish Meal 02"
+          }
+        ]
+      },
+      "d": "Fish meal is dried, ground fish and is long regarded as one of the best protein sources for catfish. It supplies protein, essential amino acids and minerals in forms fish digest well, and it makes feed more attractive to eat. Studies on African catfish repeatedly use fish meal diets as the benchmark for strong growth, and other proteins are measured against them. Quality varies with the fish used, drying and storage, so freshness matters. It is often blended with plant proteins to balance growth and cost."
+    },
+    {
+      "id": "clupeid",
+      "name": "Clupeid",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/214SDm7J/Clupied-003.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Clupeid meal comes from clupeid fish, the sardine and herring family of small, oily fish. As a fish-based protein it supplies essential amino acids, minerals and healthy fats that support growth, appetite and normal body function in catfish. Fish-based proteins are widely used to lift the quality of diets that rely heavily on plant ingredients. Quality depends on freshness and on how the meal is dried and stored, because oily meals can turn rancid if kept hot or damp."
+    },
+    {
+      "id": "soya-cake",
+      "name": "Soya Cake",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/fzbyCx1s/Soya-Cake.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Soya cake is the cake that remains after oil is taken from soybeans. It is a widely used plant protein in fish feed, valued for a good amino acid balance compared with other plant proteins and for steady supply. Research shows African catfish can grow well when soybean products replace part of the fish meal, with results depending on level and processing. Raw soy contains natural anti-nutrients that heat treatment reduces, so proper processing matters. It is low in methionine, which formulators often add separately."
+    },
+    {
+      "id": "soybean-seed",
+      "name": "Soybean Seed",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/20xJ0rK6/Soya-Seed.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Soybean seed is the whole bean. For fish feed it should be heat-processed first, because raw beans carry natural anti-nutrients that reduce digestion and growth. Once processed and milled, soybean supplies protein and oil together, so it adds both protein and energy. Because it holds more oil than soya meal, it is usually used in smaller amounts, and its oil can shorten storage life, so keep it cool and dry. Many farms mill and process the seed themselves, or have it milled for them before use."
+    },
+    {
+      "id": "soya-meal",
+      "name": "Soya Meal",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/mCg7zf1v/Soyabean-Meal.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Soyabean meal is ground, processed soybean left after oil removal. It is one of the most widely used plant proteins in fish feed, offering high protein and a good amino acid profile for a plant source. In African catfish trials, soybean meal replacing a large share of fish meal supported growth close to fish meal diets, though very high levels can reduce feed efficiency. It is low in methionine, so added methionine and lysine can help. Proper heat treatment matters for digestion and fish health."
+    },
+    {
+      "id": "maize-flour-maize-seed",
+      "name": "Maize Flour / Maize Seed",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/TXKPvNM/Corn-Flour.jpg",
+        "label": "Maize flour",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/LzrCVXxf/Maize-seed.jpg",
+            "label": "Maize seed"
+          }
+        ]
+      },
+      "d": "Maize (corn) is an energy ingredient. Its starch gives catfish energy so that dietary protein can go to growth instead of being burned as fuel, and it helps bind pellets during processing. Maize flour is finely milled for easy mixing and digestion; maize seed is the whole grain and is usually milled before use. Maize is low in protein and lysine, so it is balanced with protein ingredients. Keep it dry: mouldy maize can carry aflatoxin, a risk to fish growth and health."
+    },
+    {
+      "id": "corn-bran",
+      "name": "Corn Bran",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/wZj4dstk/Corn-Bran.jpg",
+        "label": "Corn Bran",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/mrHzdbn1/Corn-Bran-2.jpg",
+            "label": "Corn Bran 2"
+          }
+        ]
+      },
+      "d": "Corn bran is the outer layer of the maize kernel removed during milling. It is a fibre-rich ingredient that adds some energy and bulk to catfish feed at moderate levels and can help keep formulation cost down. Catfish digest fibre poorly, so too much dilutes nutrients and can slow growth, which is why it is used in controlled amounts. It is low in protein, so it sits alongside protein sources. Choose dry, clean, mould-free bran."
+    },
+    {
+      "id": "blood-meal",
+      "name": "Blood Meal",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/q3msRfGn/Blood-Meal-02.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Blood meal is dried animal blood, a very concentrated animal protein that is especially rich in lysine. In juvenile African catfish trials, diets using blood meal gave growth that did not differ significantly from fish meal diets. It is unbalanced in some amino acids and less palatable than fish meal, so it is usually used in small amounts alongside other proteins. Quality depends on drying: overheating lowers digestibility."
+    },
+    {
+      "id": "poultry-meal",
+      "name": "Poultry Meal",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/ks2m3n9j/Poultry-Meal.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Poultry meal (poultry by-product meal) is made from rendered poultry by-products. It is a concentrated animal protein with a good amino acid profile and useful fat, which also adds energy. African catfish research found that poultry by-product meal could replace a large share of fish meal while keeping growth and feed use similar to fish meal diets. Quality varies with raw materials and processing, so consistent sourcing and cool, dry storage matter."
+    },
+    {
+      "id": "feather-meal",
+      "name": "Feather Meal",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/0yytBzwX/Feather-Meal.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Feather meal is hydrolysed poultry feathers, a very high-protein ingredient. It is low in lysine, methionine and some other amino acids, and how well fish digest it depends heavily on processing, so it works best as a partial protein source alongside fish meal, soya or added amino acids. In catfish diets it is used at modest levels to lower protein cost. Too much can slow growth, so balance with other proteins is important."
+    },
+    {
+      "id": "cassava-flour-garri",
+      "name": "Cassava Flour / Garri",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/gZJvh7pv/Casava-Floor-Garri-1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Cassava flour and garri are starchy, energy-rich ingredients made from processed cassava roots. In fish feed the starch supplies energy and helps pellets bind and hold their shape in water, which supports feed intake and reduces waste. They contain very little protein, so they complement protein ingredients rather than replace them. Cassava works best when well processed, since raw cassava holds cyanogenic compounds, and at moderate levels. Use dry, clean material."
+    },
+    {
+      "id": "bone-meal-dcp",
+      "name": "Bone Meal / DCP",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/hFj5sdgj/Bonemeal-DCP.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Bone meal and dicalcium phosphate (DCP) are mineral sources of calcium and phosphorus. Fish need both to build bone and scales and to support metabolism, and growth and bone strength suffer when phosphorus is short. Plant ingredients hold much of their phosphorus as phytate, which catfish digest poorly, so added phosphate helps meet needs in plant-based diets. Studies on African and channel catfish show DCP and fish bone meal can be effective phosphorus sources."
+    },
+    {
+      "id": "pkc-palm-kernel-cake",
+      "name": "PKC (Palm Kernel Cake)",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/chYkPVb3/PKC1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Palm kernel cake (PKC) is the residue left after oil is pressed from palm kernels. It is a fibrous, widely available, low-cost plant ingredient that supplies moderate protein and energy. Catfish digest its fibre poorly, so research favours small to moderate use, and higher levels have reduced growth and feed efficiency in fish trials. It works best as one part of a formulation, balanced with higher-protein ingredients and added lysine. Store it dry to avoid moulds."
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/FL5VSVHJ/Salt.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Salt (sodium chloride) supplies sodium and chloride, minerals involved in fluid balance, nerve function and digestion. In freshwater fish such as catfish, it helps the body regulate its salts. It is used in small amounts in feed to help meet mineral needs. Too much brings no extra benefit, so it is added in small, measured quantities within a balanced formulation."
+    },
+    {
+      "id": "methionine",
+      "name": "Methionine",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/qXKQBxM/Methionine-1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "Methionine is an essential amino acid: fish cannot make it, so it must come from feed. It is often the first limiting amino acid when plant proteins such as soya or groundnut cake replace fish meal. In research on African catfish, adding DL-methionine to protein-deficient diets improved growth and nutrient use, in one study bringing a lower-protein diet close to a higher-protein control. It supports protein building and normal body function. It is added in tiny, precise amounts."
+    },
+    {
+      "id": "lysine",
+      "name": "Lysine",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/R4z4x2zY/Lysine1.jpg",
+        "label": "Lysine1",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/pvw4w0Ky/Lysine-2.jpg",
+            "label": "Lysine 2"
+          }
+        ]
+      },
+      "d": "Lysine is an essential amino acid that catfish must get from feed. Plant proteins and cereals such as maize and groundnut cake are often short of it, so lysine is added to fill the gap. African catfish research shows growth, feed intake and feed conversion improving with adequate lysine, with benefits levelling off past the requirement. It supports muscle building. It is added in small, measured amounts so the whole formulation stays balanced."
+    },
+    {
+      "id": "fish-premix",
+      "name": "Fish Premix",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/1tG3xygT/Premix.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "A fish premix is a blend of vitamins and trace minerals added in small amounts to complete a feed. Fish cannot make most vitamins, and shortages lead to poor growth, weak immunity, deformities and poor appetite. A premix makes sure these micronutrients are present at the right levels, because ordinary ingredients may not supply enough and some are lost in processing and storage. Follow the premix maker’s own inclusion guidance, and store it cool, dry and out of sunlight."
+    },
+    {
+      "id": "toxin-binder",
+      "name": "Toxin Binder",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/TDXn1n2R/Toxin-Binder.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "A toxin binder (mycotoxin binder) is a feed additive that attaches to mould toxins such as aflatoxin in the gut, so they pass out in the droppings instead of being absorbed. Mycotoxins are a real concern in warm, humid climates and in plant-based fish feeds, and can lower growth, feed efficiency, immunity and survival in catfish. In one study a clay-based binder protected yellow catfish from the harmful effects of aflatoxin. A binder is a safeguard, not a substitute for clean, dry, mould-free ingredients."
+    },
+    {
+      "id": "vitamin-c",
+      "name": "Vitamin C",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/SDwvMtXH/Vitamin-C.jpg",
+        "label": "Vitamin C",
+        "extra": [
+          {
+            "src": "https://i.ibb.co/N6YLXNyn/Vitamin-C2.jpg",
+            "label": "Vitamin C2"
+          }
+        ]
+      },
+      "d": "Vitamin C (ascorbic acid) is a vitamin that most fish, including catfish, cannot make themselves, so it must be supplied in feed. It supports healing, bone and tissue building and the immune system, and helps fish cope with stress. A shortage lowers resistance to disease; some catfish trials found extra vitamin C boosted immune measures and protection against bacterial infection, though one field trial saw no clear survival benefit, so results vary. Vitamin C breaks down with heat, light and time, so store it cool and dry."
+    },
+    {
+      "id": "feed-starter-2mm-sinking",
+      "name": "2 mm Starter — sinking pellets",
+      "group": "Finished sinking feed",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/1fYxL60Q/2mm-Pellets.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "2 mm sinking pellets are sized for small catfish at the starter stage. Young catfish have small mouths and fast-growing bodies, so pellet size matters: research on African catfish fingerlings found pellets of about 1.5 to 2 mm gave good feed intake and feed conversion. Matching pellet size to fish size helps them eat well and grow efficiently. Sinking feed is widely used for catfish. Performance depends on the formulation, water quality and farm management."
+    },
+    {
+      "id": "feed-grower-4mm-sinking",
+      "name": "4 mm Grower — sinking pellets",
+      "group": "Finished sinking feed",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/rRXd2T1c/4mm-pellets-1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "4 mm sinking pellets are for catfish in the growing stage, when fish are bigger and eat more. Larger pellets suit larger mouths, and fish growth is closely linked to pellet size, so moving up from starter size at the right time helps fish keep eating well and use feed efficiently. Sinking feed is widely used for catfish. Performance depends on the formulation, water quality and farm management."
+    },
+    {
+      "id": "feed-finisher-6mm-sinking",
+      "name": "6 mm Finisher — sinking pellets",
+      "group": "Finished sinking feed",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "https://i.ibb.co/Rk3KSMsC/6mm-pellets-1.jpg",
+        "label": "",
+        "extra": []
+      },
+      "d": "6 mm sinking pellets are for catfish in the finishing stage, the last phase before harvest, when fish are large. Bigger pellets suit big mouths and cut the waste and chasing that small pellets can cause. Matching pellet size to fish size supports steady feed intake and efficient growth through to market size. As with all feed, performance depends on the formulation, feeding management and water quality."
+    }
+  ]
+}
