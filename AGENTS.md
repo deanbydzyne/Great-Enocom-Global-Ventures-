@@ -18,6 +18,10 @@
 - Phone: 08131211302; phone/WhatsApp: 07062539658; WhatsApp URL number: 2347062539658.
 - Preserve the official logo exactly.
 
+## Product-data source of truth
+- The current catalogue source of truth is data/products.json. Do not re-embed catalogue records in index.html.
+- Preserve the JSON wrapper and product field structure. Before committing catalogue edits, parse the JSON and check unique non-empty product IDs, names and groups. Keep the storefront fetch path working.
+
 ## Catalogue integrity
 - 21 raw ingredients/additives: GNC (Groundnut Cake), Rosel, Local Fish Meal, Clupeid, Soya Cake, Soybean Seed, Soya Meal, Maize Flour / Maize Seed, Corn Bran, Blood Meal, Poultry Meal, Feather Meal, Cassava Flour / Garri, Bone Meal / DCP, PKC (Palm Kernel Cake), Salt, Methionine, Lysine, Fish Premix, Toxin Binder and Vitamin C.
 - 3 finished sinking feeds: 2 mm Starter, 4 mm Grower and 6 mm Finisher.
