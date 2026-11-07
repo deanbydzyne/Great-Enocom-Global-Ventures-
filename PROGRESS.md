@@ -34,3 +34,12 @@
 - Added a restrained footer credit, “Powered by Dean By D'zyne”, linking to https://deanbydzyne.netlify.app.
 - Files changed: index.html, PROGRESS.md. Catalogue data, product IDs, imagery, business details, layout, and hosting architecture unchanged.
 - Automated source checks: pending; owner mobile verification required before merging to main or deployment.
+
+
+## 2026-11-07 — Owner-supplied product imagery and catalogue separation
+- Confirmed the six committed JPGs in assets/products/ against the owner's corrections by visual inspection: white fine powder = Bone Meal; brown coarse material = DCP; dried small fish = Clupeid.
+- Updated data/products.json to use the local repository images for Bone Meal, DCP and Clupeid, with alternate views in each product detail page.
+- Split the former combined Bone Meal / DCP entry into separate Bone Meal and DCP listings. Retained the existing bone-meal-dcp ID for Bone Meal to preserve saved-cart references; added the new unique dcp ID. Catalogue now has 25 products: 22 raw ingredients/additives and 3 finished feeds.
+- Automated validation: JSON parses; 25 unique product IDs and names; group totals 22 raw / 3 finished; all six referenced local image paths exist in assets/products/; existing storefront fetch path unchanged.
+- Files changed: data/products.json, PROGRESS.md, AGENTS.md. No prices, weights, packaging, stock or specifications added. No redesign or backend changes.
+- Next: verify production runtime and customer journey, then final Netlify deploy.
