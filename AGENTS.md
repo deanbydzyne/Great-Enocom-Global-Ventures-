@@ -23,7 +23,7 @@
 - Preserve the JSON wrapper and product field structure. Before committing catalogue edits, parse the JSON and check unique non-empty product IDs, names and groups. Keep the storefront fetch path working.
 
 ## Catalogue integrity
-- 21 raw ingredients/additives: GNC (Groundnut Cake), Rosel, Local Fish Meal, Clupeid, Soya Cake, Soybean Seed, Soya Meal, Maize Flour / Maize Seed, Corn Bran, Blood Meal, Poultry Meal, Feather Meal, Cassava Flour / Garri, Bone Meal / DCP, PKC (Palm Kernel Cake), Salt, Methionine, Lysine, Fish Premix, Toxin Binder and Vitamin C.
+- 22 raw ingredients/additives: GNC (Groundnut Cake), Rosel, Local Fish Meal, Clupeid, Soya Cake, Soybean Seed, Soya Meal, Maize Flour / Maize Seed, Corn Bran, Blood Meal, Poultry Meal, Feather Meal, Cassava Flour / Garri, Bone Meal, DCP (Dicalcium Phosphate), PKC (Palm Kernel Cake), Salt, Methionine, Lysine, Fish Premix, Toxin Binder and Vitamin C.
 - 3 finished sinking feeds: 2 mm Starter, 4 mm Grower and 6 mm Finisher.
 - Product data is authoritative for IDs, names, descriptions, visibility, image status and references. Do not silently rename or normalize catalogue entries.
 - Do not present reference images as actual stock. Respect attribution/licensing and fallback behaviour.
