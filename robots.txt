@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greatenocomglobalveentures.netlify.app/sitemap.xml
+Sitemap: https://greatenocomglobalventures.netlify.app/sitemap.xml
