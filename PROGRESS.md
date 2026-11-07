@@ -70,3 +70,10 @@
 - Updated README.md to document the corrected canonical production URL. index.html already uses this corrected hostname for canonical, Open Graph, and LocalBusiness structured data; no change needed there.
 - Files changed: robots.txt, sitemap.xml, README.md, PROGRESS.md.
 - Checks: all SEO URL references in these files now use the corrected hostname; sitemap contains the canonical homepage only. Live endpoint verification is still required after Netlify deploy. Resubmit sitemap.xml in Search Console after deployment.
+
+
+## 2026-11-07 — Canonical homepage metadata correction
+- Follow-up inspection found that index.html still contained the former hostname in three metadata locations despite the corrected robots.txt and sitemap.xml.
+- Updated the canonical link, Open Graph URL and LocalBusiness JSON-LD URL to https://greatenocomglobalventures.netlify.app/.
+- Files changed: index.html, PROGRESS.md.
+- Validation: all three homepage URL references now use the same hostname as robots.txt and sitemap.xml; Google verification meta tag remains present. No catalogue or customer journey changes.
