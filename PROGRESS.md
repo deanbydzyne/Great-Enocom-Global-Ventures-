@@ -54,3 +54,5 @@
 - Files changed: index.html, sitemap.xml, robots.txt, README.md, PROGRESS.md.
 - Validation planned: inspect the committed metadata and structured data, parse the JSON-LD and XML, verify sitemap/robots paths and confirm product catalogue remains 25 entries. Search Console submission and live crawl verification remain owner follow-up tasks.
 - Development branch: step-5/seo-foundations. No storefront layout, catalogue, order workflow, backend or hosting architecture changes.
+
+- Owner confirmed the intended market positioning: a complete aquaculture feed solutions provider covering ingredients, milling, pelleting, finished feed and distribution. Updated the SEO title, meta description, social sharing text and LocalBusiness description to match.
