@@ -30,7 +30,7 @@
 
 ## 2026-11-07 — Step 4 quantity control and developer credit
 - Added a fixed kilogram (kg) quantity control to each cart item. Quantity starts at 1 kg and can be adjusted with accessible +/− buttons or the numeric field; it cannot fall below 1 kg and is capped at 100,000 kg per line.
-- Updated order review and WhatsApp/copy summary to state the selected quantity in kg. Existing saved non-numeric/free-text cart entries migrate safely to 1 kg; valid saved numeric quantities are retained.
+- Updated order review and WhatsApp/copy summary to state the selected quantity in kg. Existing saved non-numeric/free-text cart entries migrate safely to 1 kg; valid saved whole-number quantities are retained.
 - Added a restrained footer credit, “Powered by Dean By D'zyne”, linking to https://deanbydzyne.netlify.app.
 - Files changed: index.html, PROGRESS.md. Catalogue data, product IDs, imagery, business details, layout, and hosting architecture unchanged.
 - Automated source checks: pending; owner mobile verification required before merging to main or deployment.
