@@ -129,7 +129,7 @@ function loadCart(){
     const raw=localStorage.getItem(CART_KEY);
     const parsed=raw?JSON.parse(raw):{};
     if(!parsed||typeof parsed!=="object"||Array.isArray(parsed))return clean;
-    for(const id of Object.keys(parsed))if(P.has(id)){const n=Number.parseInt(parsed[id],10);clean[id]=String(Number.isFinite(n)&&n>0?Math.min(n,100000):1); }
+    for(const id of Object.keys(parsed))if(P.has(id)){const raw=String(parsed[id]??"").trim();const n=/^\\d+$/.test(raw)?Number(raw):NaN;clean[id]=String(Number.isSafeInteger(n)&&n>0?Math.min(n,100000):1); }
   }catch(e){/* Storage may be disabled or contain malformed JSON. */}
   return clean;
 }
