@@ -24,3 +24,10 @@ The JSON file is static project data, not a database. Changes become part of the
 
 ## Hosting
 Netlify free static hosting on a .netlify.app subdomain. No paid services or backend are required for this catalogue approach.
+
+
+## Search engine foundations
+- `index.html` positions the business as a complete aquaculture feed solutions provider: ingredients, milling, pelleting, finished feed and distribution. It contains the verified page description, canonical URL, social sharing metadata and LocalBusiness structured data.
+- `sitemap.xml` lists the canonical homepage URL. The storefront is currently a single-page site; hash-based views are not separate crawlable URLs.
+- `robots.txt` allows normal crawling and points search engines to the XML sitemap.
+- The production canonical URL is the current Netlify address: https://greatenocomglobalveentures.netlify.app/.
