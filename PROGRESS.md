@@ -62,3 +62,11 @@
 - Added the owner-provided Google site-verification meta tag to the homepage <head> on the SEO development branch.
 - No catalogue, layout, product, order-flow, robots.txt or sitemap.xml changes.
 - Next: merge and deploy the SEO branch, verify the tag is present on the live homepage, then complete ownership verification in Search Console and submit the sitemap.
+
+
+## 2026-11-07 — Canonical Netlify domain alignment
+- Owner confirmed the production Netlify site address is now https://greatenocomglobalventures.netlify.app/ (without the extra "e" in "veentures").
+- Updated robots.txt sitemap directive and sitemap.xml homepage location to the confirmed production hostname.
+- Updated README.md to document the corrected canonical production URL. index.html already uses this corrected hostname for canonical, Open Graph, and LocalBusiness structured data; no change needed there.
+- Files changed: robots.txt, sitemap.xml, README.md, PROGRESS.md.
+- Checks: all SEO URL references in these files now use the corrected hostname; sitemap contains the canonical homepage only. Live endpoint verification is still required after Netlify deploy. Resubmit sitemap.xml in Search Console after deployment.
