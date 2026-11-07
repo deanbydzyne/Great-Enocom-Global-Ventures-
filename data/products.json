@@ -56,9 +56,14 @@
       "visible": true,
       "image": {
         "status": "owner_supplied",
-        "src": "https://i.ibb.co/214SDm7J/Clupied-003.jpg",
-        "label": "",
-        "extra": []
+        "src": "assets/products/clupeid-1.jpg",
+        "label": "Clupeid",
+        "extra": [
+          {
+            "src": "assets/products/clupeid-2.jpg",
+            "label": "Clupeid — alternate view"
+          }
+        ]
       },
       "d": "Clupeid meal comes from clupeid fish, the sardine and herring family of small, oily fish. As a fish-based protein it supplies essential amino acids, minerals and healthy fats that support growth, appetite and normal body function in catfish. Fish-based proteins are widely used to lift the quality of diets that rely heavily on plant ingredients. Quality depends on freshness and on how the meal is dried and stored, because oily meals can turn rancid if kept hot or damp."
     },
@@ -191,16 +196,39 @@
     },
     {
       "id": "bone-meal-dcp",
-      "name": "Bone Meal / DCP",
+      "name": "Bone Meal",
       "group": "Raw ingredients and additives",
       "visible": true,
       "image": {
         "status": "owner_supplied",
-        "src": "https://i.ibb.co/hFj5sdgj/Bonemeal-DCP.jpg",
-        "label": "",
-        "extra": []
+        "src": "assets/products/bone-meal-1.jpg",
+        "label": "Bone Meal",
+        "extra": [
+          {
+            "src": "assets/products/bone-meal-2.jpg",
+            "label": "Bone Meal — alternate view"
+          }
+        ]
       },
-      "d": "Bone meal and dicalcium phosphate (DCP) are mineral sources of calcium and phosphorus. Fish need both to build bone and scales and to support metabolism, and growth and bone strength suffer when phosphorus is short. Plant ingredients hold much of their phosphorus as phytate, which catfish digest poorly, so added phosphate helps meet needs in plant-based diets. Studies on African and channel catfish show DCP and fish bone meal can be effective phosphorus sources."
+      "d": "Bone meal is made from processed animal bones and supplies calcium and phosphorus, minerals fish need for skeletal development and normal metabolism. In catfish feed it is used as a mineral ingredient alongside protein and energy sources. Its mineral content and digestibility can vary with the raw material and processing, so it should be included as part of a properly balanced formulation."
+    },
+    {
+      "id": "dcp",
+      "name": "DCP (Dicalcium Phosphate)",
+      "group": "Raw ingredients and additives",
+      "visible": true,
+      "image": {
+        "status": "owner_supplied",
+        "src": "assets/products/dcp-1.jpg",
+        "label": "DCP",
+        "extra": [
+          {
+            "src": "assets/products/dcp-2.jpg",
+            "label": "DCP — alternate view"
+          }
+        ]
+      },
+      "d": "Dicalcium phosphate (DCP) is a mineral feed ingredient that supplies calcium and phosphorus. Fish need these minerals for skeletal development and normal metabolism. In catfish diets, DCP can help provide available phosphorus, particularly in formulations containing plant ingredients whose phosphorus may be less digestible. Use it as part of a balanced feed formulation."
     },
     {
       "id": "pkc-palm-kernel-cake",
