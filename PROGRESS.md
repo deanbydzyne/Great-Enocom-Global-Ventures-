@@ -56,3 +56,9 @@
 - Development branch: step-5/seo-foundations. No storefront layout, catalogue, order workflow, backend or hosting architecture changes.
 
 - Owner confirmed the intended market positioning: a complete aquaculture feed solutions provider covering ingredients, milling, pelleting, finished feed and distribution. Updated the SEO title, meta description, social sharing text and LocalBusiness description to match.
+
+
+## 2026-11-07 — Google Search Console ownership verification
+- Added the owner-provided Google site-verification meta tag to the homepage <head> on the SEO development branch.
+- No catalogue, layout, product, order-flow, robots.txt or sitemap.xml changes.
+- Next: merge and deploy the SEO branch, verify the tag is present on the live homepage, then complete ownership verification in Search Console and submit the sitemap.
