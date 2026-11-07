@@ -43,3 +43,14 @@
 - Automated validation: JSON parses; 25 unique product IDs and names; group totals 22 raw / 3 finished; all six referenced local image paths exist in assets/products/; existing storefront fetch path unchanged.
 - Files changed: data/products.json, PROGRESS.md, AGENTS.md. No prices, weights, packaging, stock or specifications added. No redesign or backend changes.
 - Next: verify production runtime and customer journey, then final Netlify deploy.
+
+
+## 2026-11-07 — Step 5 SEO foundations
+- Added a concise, verified meta description; index/follow robots directive; canonical homepage URL; theme color; Open Graph and Twitter sharing metadata.
+- Added Schema.org LocalBusiness JSON-LD using only confirmed business name, services, phone numbers, address, service area and supplied Google Maps link. No ratings, reviews, hours, coordinates or unsupported claims were invented.
+- Added sitemap.xml with the canonical homepage URL only. The storefront remains a single-page app, so hash-based views are not separate sitemap URLs.
+- Added robots.txt allowing normal crawling and pointing to sitemap.xml.
+- Documented the SEO files and canonical URL in README.md.
+- Files changed: index.html, sitemap.xml, robots.txt, README.md, PROGRESS.md.
+- Validation planned: inspect the committed metadata and structured data, parse the JSON-LD and XML, verify sitemap/robots paths and confirm product catalogue remains 25 entries. Search Console submission and live crawl verification remain owner follow-up tasks.
+- Development branch: step-5/seo-foundations. No storefront layout, catalogue, order workflow, backend or hosting architecture changes.
